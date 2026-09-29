@@ -31,7 +31,7 @@
     "dotenv": "^17.2.3",
     "sqlite3": "^5.1.7",
     "tsx": "^4.20.6",
-    "typeorm": "^0.3.27",
+    "typeorm": "^0.3.31",
     "zod": "^4.1.12"
   },
   "devDependencies": {
